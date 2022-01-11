@@ -5,7 +5,7 @@
     <visibility>Public</visibility>
     <fields>
         <fullName>Country_Code__c</fullName>
-        <externalId>false</externalId>        
+        <externalId>false</externalId>
         <fieldManageability>DeveloperControlled</fieldManageability>
         <label>Country Code</label>
         <length>3</length>
